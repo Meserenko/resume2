@@ -1,0 +1,45 @@
+h1{
+	font-weight: bold;
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+hr
+{
+  background-color: black;
+  height: 5px;
+}
+th {
+  text-align: left;
+  font-size: large;
+}
+table, th, td{
+  border-collapse: collapse;
+}
+
+table{
+  width: 100%;
+}
+
+
+th, td{
+  vertical-align: top;
+  height:30px;
+  border: 15px solid transparent;
+}
+
+body {
+  border-style: solid;
+  border-width: 45px;
+  border-color: transparent;
+}
+
+
+caption {
+  font-size: large;
+  text-align: left;
+  border-style: none none solid none;
+  border-width: 6px;
+  border-color: black;
+}
